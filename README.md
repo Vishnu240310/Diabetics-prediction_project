@@ -7,7 +7,7 @@ The goal is to demonstrate the application of Machine Learning in healthcare for
 
 📊 Dataset
 
-Source: Kaggle – Diabetes Dataset
+Source: Kaggle – Diabetes Dataset ("https://www.kaggle.com/datasets/mathchi/diabetes-data-set")
 
 Features include medical parameters like pregnancies, glucose, blood pressure, skin thickness, insulin, BMI, diabetes pedigree function, and age.
 
